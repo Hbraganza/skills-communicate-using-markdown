@@ -3,3 +3,6 @@
 ```
 print(Hello World!!)
 ```
+- [ ] Get proficient for a job
+- [ ] improve portfolio on git
+- [ ] make app that I wanted to make
